@@ -1,0 +1,2 @@
+.icons-list{list-style:none;margin:0 0 3rem 0 !important;padding:0 !important;display:grid;grid-template-columns:repeat(auto-fit, minmax(5rem, 7rem));gap:1rem}.icons-list li{display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%}.icons-list li i{font-size:2.5rem}.icons-list li span{font-size:0.7rem;line-height:1;text-align:center;font-weight:400}
+/*# sourceMappingURL=custom.css.map */
